@@ -1,0 +1,16 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1"
+            gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff4ebe" />
+            <stop offset="1" stop-color="#ff7e7e" />
+        </linearGradient>
+    </defs>
+    <circle id="Ellipse_572" data-name="Ellipse 572" cx="25" cy="25" r="25" transform="translate(0)"
+        fill="url(#linear-gradient)" />
+    <path id="Path_8026" data-name="Path 8026"
+        d="M17.868,18.455V13h14.5m0,0,3.5,3.818M32.369,13l-.354,3.085a1,1,0,0,0,1.129,1.1l2.725-.372m0,0V36a1,1,0,0,1-1,1h-2m-14-15.273h8M18.369,31a3.832,3.832,0,0,0,4.5,0,3.832,3.832,0,0,1,4.5,0m-6.5-9.273v4.909L16,35.133a1,1,0,0,0-.132.5V36a1,1,0,0,0,1,1h12a1,1,0,0,0,1-1v-.456a1,1,0,0,0-.134-.5l-4.866-8.406V21.727Z"
+        transform="translate(-0.42)" fill="none" stroke="#fff" stroke-linecap="round"
+        stroke-width="1.5" />
+</svg>

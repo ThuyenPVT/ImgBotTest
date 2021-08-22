@@ -1,0 +1,112 @@
+{
+  "common": {
+    "something_went_wrong": "Có lỗi xảy ra!",
+    "save_button": "Lưu",
+    "cancel_button": "Huỷ",
+    "next": "Tiếp theo",
+    "ok_button": "Đồng ý",
+    "search": "Tìm kiếm",
+    "note": "Lưu ý",
+    "message_noting": "Thông tin chưa được lưu. Bạn có chắc muốn hủy?"
+  },
+  "home": {
+    "scan_history": {
+      "scan_history": "Lịch sử quét",
+      "scan_history_filter": "Lọc lịch sử quét",
+      "cancel_scan": "Bỏ lọc",
+      "ok": "OK",
+      "scan_date": "Ngày quét",
+      "from": "Từ",
+      "to": "Đến"
+    },
+    "favorite_product": "Sản phẩm yêu thích",
+    "scan_now": "Quét ngay!",
+    "scan_now_description": "Lorem ipsum dolor sit amet, scing elit. Lorem ipsum cà rốt."
+  },
+  "setting": {
+    "setting": "Cài đặt",
+    "check_skin": "Kiểm tra loại da",
+    "app_rating": {
+      "app_rating": "Đánh giá ứng dụng",
+      "rating_button": "Đánh giá",
+      "thanks_for_rating": "Cảm ơn bạn vì đã đánh giá ứng dụng của chúng tôi.",
+      "text_thanks": "Điều này có ý nghĩa rất lớn đối với chúng tôi! Chúng tôi thật sự muốn cảm ơn bạn vì sự giúp đỡ của bạn."
+    },
+    "setting_language": {
+      "setting_language": "Cài đặt ngôn ngữ",
+      "language": "Ngôn ngữ",
+      "vietnamese": "Việt Nam",
+      "english": "Tiếng Anh"
+    },
+    "terms_of_service": "Điều khoản dịch vụ",
+    "list_users": "Danh sách người dùng"
+  },
+  "level_ratio": {
+    "safety": "An toàn",
+    "undefined": "Không xác định",
+    "medium": "Vừa phải",
+    "dangerous": "Nguy hiểm",
+    "terms_of_service": "Điều khoản dịch vụ"
+  },
+  "scan_ingredient": {
+    "allow_scan_cosmetic_access_your_gallery": "Cho phép Scan Cosmetic truy cập thư viện ảnh",
+    "allow_scan_cosmetic_access_your_storage": "Cho phép Scan Cosmetic truy cập bộ nhớ",
+    "open_setting": "Mở cài đặt",
+    "cancel": "Hủy",
+    "no_data_found": "Không tìm thấy dữ liệu!",
+    "this_file_has_an_invalid_format": "Tệp này có định dạng không hợp lệ",
+    "allow_scan_cosmetic_access_your_camera_and_storage": "Cho phép Scan Cosmetic truy cập máy ảnh và bộ nhớ",
+    "allow_scan_cosmetic_access_your_camera": "Cho phép Scan Cosmetic truy cập máy ảnh",
+    "invalid_detection_content": "Nhận diện nội dung không hợp lệ"
+  },
+  "result_scan": {
+    "scan_result": "Kết quả phân tích",
+    "add_product_name": "Thêm tên sản phẩm",
+    "check_now": "Kiểm tra ngay",
+    "suitable_skin_type": "Sản phẩm này phù hợp với %s",
+    "not_suitable_skin_type": "không phù hợp với %s",
+    "check_skin_type": "\n\nHãy kiểm tra để biết bạn thuộc loại da gì nhé!",
+    "recommendation": "Sản phẩm này an toàn cho bà bầu và mẹ đang cho con bú.",
+    "ingredients": "Thành phần",
+    "ingredients_safety": "Thành phần an toàn",
+    "ingredients_low_risk": "Thành phần ít rủi ro",
+    "ingredients_high_risk": "Thành phần rủi ro cao",
+    "ingredients_analysis": {
+      "ingredients_analysis": "Phân tích thành phần (EWG health rating)",
+      "safe": "An toàn",
+      "high_rick": "Rủi ro cao",
+      "low_rick": "Ít rủi ro",
+      "un_defined": "Chưa xác định"
+    },
+    "skin_irritation": {
+      "skin_irritation": "Độ kích ứng với loại da",
+      "oily_skin": "Da dầu",
+      "dry_skin": "Da khô",
+      "normal_skin": "Da thường",
+      "combination_skin": "Da hỗn hợp",
+      "sensitive_skin": "Da nhạy cảm"
+    },
+    "product_function": "Chức năng sản phẩm",
+    "view_detail": "Xem chi tiết",
+    "product_name": "Tên sản phẩm",
+    "enter_product_name": "Nhập tên sản phẩm"
+  },
+  "test_skin_type": {
+    "test_skin_type": "Kiểm tra loại da",
+    "check_with_paper": "Kiểm tra loại da bằng giấy thấm dầu",
+    "you_need": "Để kiểm tra bạn cần:",
+    "tool": "Dụng cụ",
+    "four_paper": "4 miếng giấy thấm dầu",
+    "time": "Thời gian",
+    "after_waking_up": "Sau khi thức dậy",
+    "requirements": "Yêu cầu",
+    "remove_makeup": "Tẩy trang, rửa mặt thật sạch trước khi đi ngủ. Lưu ý, không thoa bất cứ sản phẩm dưỡng nào.",
+    "conditions": "Điều kiện",
+    "temperature": "Đảm bảo bạn mở quạt. nếu mở điều hòa thì giữ nhiệt độ khoảng 25-28.",
+    "step_one": "Bước 1",
+    "clean_face": "Rửa mặt thật sạch và lưu ý không thoa bất cứ sản phẩm dưỡng nào. Lên giường và ngủ một giấc thật ngon.",
+    "step_two": "Bước 2",
+    "using_paper": "Khi thức dậy, bắt đầu lấy bốn miếng giấy thấm dầu và áp lên mặt các vùng: trán, mũi, 2 bên má",
+    "question": "Bốn miếng giấy thấm dầu của bạn như thế nào?"
+  }
+}

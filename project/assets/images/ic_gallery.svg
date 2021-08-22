@@ -1,0 +1,26 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter0_d" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+        </filter>
+    </defs>
+    <g filter="url(#filter0_d)">
+        <path
+            d="M6.69878 2.69878C5.61107 3.78649 5 5.26174 5 6.8V21.2C5 22.7383 5.61107 24.2135 6.69878 25.3012C7.78649 26.3889 9.26174 27 10.8 27H25.2C26.7383 27 28.2135 26.3889 29.3012 25.3012C30.3889 24.2135 31 22.7383 31 21.2V6.8C31 5.26174 30.3889 3.78649 29.3012 2.69878C28.2135 1.61107 26.7383 1 25.2 1H10.8C9.26174 1 7.78649 1.61107 6.69878 2.69878Z"
+            stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path
+            d="M13.8 13.8C16.0091 13.8 17.8 12.0092 17.8 9.80005C17.8 7.59091 16.0091 5.80005 13.8 5.80005C11.5908 5.80005 9.79999 7.59091 9.79999 9.80005C9.79999 12.0092 11.5908 13.8 13.8 13.8Z"
+            stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path
+            d="M20.2913 14.0724L20.2912 14.0725L10.06 25.3273C9.79379 25.6201 9.72535 26.0425 9.88548 26.4045C10.0456 26.7665 10.4042 26.9999 10.8 26.9999H25.524C26.9763 26.9999 28.3692 26.423 29.3961 25.396C30.4231 24.3691 31 22.9762 31 21.5239C31 20.7136 30.6956 19.9347 30.1505 19.3376L30.149 19.3361L25.3131 14.0622C25.3131 14.0621 25.3131 14.0621 25.313 14.0621C24.9938 13.7138 24.6054 13.4359 24.1727 13.2461C23.74 13.0563 23.2725 12.9588 22.8 12.9597C22.3275 12.9607 21.8603 13.0601 21.4284 13.2517C20.9965 13.4433 20.6092 13.7228 20.2913 14.0724Z"
+            stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+</svg>
