@@ -1,0 +1,34 @@
+{
+  "skin_type_questions": {
+    "oily_skin": {
+      "question": "* Cả bốn miếng giấy thấm dầu xuất hiện nhiều dầu, ướt đẫm. Nhất là vũng chữ T (trán và mũi).\n* Lỗ chân lông to, hay có mụn đầu đen, mụn cám nhiều vùng mũi.",
+      "conclusion": "Da của bạn là da dầu",
+      "explain": "<p>Dầu nhiều khắp mặt, đặt biệt vùng chữ T\nVào thời gian ban ngày bạn nên sử dụng sản phẩm chăm sóc da có chứa <span>benzoyl peroxide</span> hay lưu huỳnh để kiềm chế sự tiết dầu của da cũng như ngăn ngừa mụn. Trong khi đó, vào ban đêm thì bạn nên ưu tiên các sản phẩm có chứa <span>retinol</span> giúp cho lỗ chân lông được thông thoáng hơn, không bị bí tắc.\nNhững điều bạn cần nên lưu ý  khi chăm sóc da dầu:\n <ul><li> Sử dụng sữa rửa mặt dịu nhẹ cho da dầu.</li>\n <li> Nên chọn toner và kem dưỡng ẩm phù hợp.</li>\n <li> Thường xuyên xịt khoáng cho da dầu.</li>\n <li> Đắp mặt nạ và tẩy tế bào chết định kỳ.</li></ul></p>",
+      "image": "assets/images/sh_oily_skin.png"
+    },
+    "dry_skin": {
+      "question": "* Bốn miếng giấy thấm dầu đều hoàn toàn khô, giấy không dính trên da.\n* Bề mặt da thô ráp, không trơn mượt.",
+      "conclusion": "Da của bạn là da khô",
+      "explain": "<p>Da khô là loại da hay bị bong tróc và thô ráp, mang lại cho chị em cảm giác bề mặt luôn bị căng do thiếu nước. Đồng thời, đây cũng là làn da có quá trình lão hóa diễn ra rất nhanh. Do vậy, bạn cần chăm sóc da khô một cách kỹ càng.\nCung cấp thêm độ ẩm cho da thông qua kem dưỡng ẩm có chứa một số chất ngậm nước như <span>acid hyaluronic</span> hoặc <span>glycerin</span>. Những chất này sẽ bổ sung thêm lượng nước trong các tế bào da, giúp da bớt căng, rát hơn. Thời điểm tốt nhất để bôi kem dưỡng ẩm đó là sau khi tắm xong hoặc rửa mặt xong. Khi đó, da đã được làm sạch và vẫn còn ẩm, da có thể hấp thu được các chất tốt hơn.\nĐối với làn da khô việc chăm sóc hàng ngày sẽ phức tạp hơn so với da thường, cụ thể:\n <ul><li> Hãy luôn dưỡng ẩm và tăng cường bổ sung nước cho da, giúp da luôn mềm mại.</li>\n <li> Khi xịt khoáng hay dưỡng ẩm hãy vỗ nhẹ giúp da thấm sâu vào bên trong.</li>\n <li> Tăng cường uống nước hàng ngày.</li>\n <li> Thường xuyên xông mặt bằng máy tạo độ ẩm để bổ sung nước cho da một cách tự nhiên.</li>\n <li> Thoa kem chống nắng hàng ngày để da hạn chế bị mất nước.</li>\n <li> Không nên rửa mặt bằng nước nóng.</li></ul></p>",
+      "image": "assets/images/sh_dry_skin.png"
+    },
+    "normal_skin": {
+      "question": "* Các miếng giấy thấm dầu đều có một lớp dầu nhẹ, không đáng kể.\n* Điều này hoàn toàn bình thường vì với khí hậu nóng ẩm như Việt Nam, da luôn có một lớp dầu mỏng đặc biệt ở vùng chữ T như trán, mũi.",
+      "conclusion": "Da của bạn là da bình thường",
+      "explain": "<p>Da thường là loại da không quá nhờn nhưng cũng không bị khô. Với tính chất trên thì rõ ràng da thường là loại da khỏe mạnh và lý tưởng nhất mà các chị em đều mong được sở hữu. Khi chạm tay vào da, chúng ta có thể dễ dàng cảm nhận được độ mềm mượt nhẹ nhàng của da, đặc biệt sau khi rửa mặt xong thì da cũng không có nhiều sự thay đổi. Lớp sừng bên ngoài luôn được giữ ở mức độ ẩm lý tưởng.\nVới làn da thường chị em không gặp bất kỳ khó khăn nào trong việc chăm sóc. Để làn da duy trì được vẻ đẹp và sự khỏe mạnh, chị em nên lưu ý luôn giữ da sạch sẽ và cấp ẩm cho da. Bên cạnh đó, chị em cũng có thể duy trì thói quen đắp mặt nạ từ các nguyên liệu tự nhiên hàng tuần cho da, thoa <span>kem chống nắng</span> khi ra ngoài trời,…</p>",
+      "image": "assets/images/sh_normal_skin.png"
+    },
+    "combination_skin": {
+      "question": "* 2 miếng thấm dầu vùng mũi và trán nhiều dầu.\n* Nhưng 2 miếng bên má thì dầu không đáng kể.",
+      "conclusion": "Da của bạn là da hỗn hợp",
+      "explain": "<p>Da hỗn hợp là loại da có cả các đặc tính của da dầu và da khô. Nghĩa là khi sở hữu làn da hỗn hợp, da mặt bạn sẽ có vùng bị bóng nhờn (thường là vùng chữ T) và có vùng sẽ gặp tình trạng da khô, bong tróc (hai bên má).\nBên cạnh đó, da hỗn hợp còn được phân thành 2 loại:\n <ul><li> Da hỗn hợp thiên dầu: Phần lớn các vùng trên mặt đều tiết nhiều dầu, còn lại rất ít vị trí bị khô.</li>\n <li> Da hỗn hợp thiên khô: Phần lớn các vùng đều bị khô, chỉ một số vị trí thuộc vùng chữ T có tiết dầu.</li></ul>\n <p>Đối với da hỗn hợp tương đối phức tạp khi chăm sóc chị em cần chú ý:</p>\n <ul><li> Hãy lựa chọn sữa rửa mặt dành riêng cho loại da hỗn hợp.</li>\n <li> Rửa mặt từ 1 đến 2 lần trong ngày, nên rửa vào buổi sáng và tối.</li>\n <li> Hãy luôn giữ vệ sinh sạch sẽ cho các vị trí da nhờn và tăng cường cấp ẩm cho vùng da khô.</li>\n <li> Lựa chọn loại mặt nạ tự nhiên dành cho da hỗn hợp sẽ giúp cân bằng da hơn.</li></ul></p>",
+      "image": "assets/images/sh_combination_skin.png"
+    },
+    "sensitive_skin": {
+      "question": "* Da mỏng, có thể nhìn thấy các mạch máu dưới da.\n* Dễ bị kích ứng, ngứa hoặc/và ửng đỏ sau khi tiếp xúc với tia nắng hoặc hầu hết mỹ phẩm thông thường (commercial).",
+      "conclusion": "Da của bạn là da nhạy cảm",
+      "explain": "<p>Da nhạy cảm là loại da dễ bị kích ứng, căng đỏ, cảm giác ngứa, châm chích, nóng ran bởi vì da đã bị mất đi hàng rào bảo vệ trước sự tác động từ các yếu tố bên ngoài như thời tiết, môi trường thay đổi, hóa chất trong mỹ phẩm,...\nChăm sóc da nhạy cảm khá phức tạp so với các loại da khác. Chị em nên sử dụng các loại mỹ phẩm dịu nhẹ phù hợp với làn da nhạy cảm, <span>drugstore</span> hoặc <span>organic</span> và ưu tiên cấp ẩm cũng như dưỡng ẩm cho da. Tránh các thành phần có chất tẩy mạnh và dễ gây kích ứng như: Fragant (Hương liệu), Color (Chất tạo màu), Paraben (Chất bảo quản), Mineral oil (Dầu khoáng), Benzophenone (Thành phần hóa học), Artificial Pigment (Phụ gia), Acid Salicylic, Alpha, Beta hydroxy acid,... \nBên cạnh đó, đối với làn da này chúng ta nên đơn giản hóa quy trình chăm sóc da để không gây kích ứng. Chị em chỉ cần làm sạch nhẹ nhàng, sau đó sử dụng toner cấp ẩm và kem dưỡng ẩm là được.</p>",
+      "image": "assets/images/sh_sensitive_skin.png"
+    }
+  }
+}

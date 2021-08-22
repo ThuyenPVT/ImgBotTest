@@ -1,0 +1,112 @@
+{
+  "common": {
+    "something_went_wrong": "Something went wrong!",
+    "save_button": "Save",
+    "cancel_button": "Cancel",
+    "ok_button": "OK",
+    "search": "Search",
+    "next": "Next",
+    "note": "Note",
+    "message_noting": "Unsaved information. Cancel anyway?"
+  },
+  "home": {
+    "scan_history": {
+      "scan_history": "Scan history",
+      "scan_history_filter": "Scan history",
+      "cancel_scan": "Cancel",
+      "ok": "OK",
+      "scan_date": "Scan date",
+      "from": "From",
+      "to": "To"
+    },
+    "favorite_product": "Favorites",
+    "scan_now": "Scan now!",
+    "scan_now_description": "Lorem ipsum dolor sit amet, scing elit. Lorem ipsum dolor sit amet."
+  },
+  "setting": {
+    "setting": "Setting",
+    "check_skin": "Check your skin type",
+    "app_rating": {
+      "app_rating": "Rate our app",
+      "rating_button": "Rating",
+      "thanks_for_rating": "Thank you for rating our app.",
+      "text_thanks": "This means a lot to us! We really want to thank you for your help."
+    },
+    "setting_language": {
+      "setting_language": "Language",
+      "language": "Language",
+      "vietnamese": "Vietnamese",
+      "english": "English"
+    },
+    "terms_of_service": "Terms of service",
+    "list_users": "List of users"
+  },
+  "level_ratio": {
+    "safety": "Safety",
+    "undefined": "Undefined",
+    "medium": "Medium",
+    "dangerous": "Dangerous",
+    "terms_of_service": "Terms of service"
+  },
+  "scan_ingredient": {
+    "allow_scan_cosmetic_access_your_gallery": "Allow Scan Cosmetic access your gallery",
+    "allow_scan_cosmetic_access_your_storage": "Allow Scan Cosmetic access your storage",
+    "open_setting": "Open setting",
+    "cancel": "Cancel",
+    "no_data_found": "No data found !",
+    "this_file_has_an_invalid_format": "This file has an invalid format",
+    "allow_scan_cosmetic_access_your_camera_and_storage": "Allow Scan Cosmetic access your camera and storage",
+    "allow_scan_cosmetic_access_your_camera": "Allow Scan Cosmetic access your camera",
+    "invalid_detection_content": "Invalid detection content"
+  },
+  "result_scan": {
+    "scan_result": "Scan result",
+    "add_product_name": "Add product name",
+    "check_now": "Check now",
+    "suitable_skin_type": "This product is suitable for %s",
+    "not_suitable_skin_type": "not suitable for %s",
+    "check_skin_type": "\n\nCheck to see what skin type you are!",
+    "recommendation": "This product is safe for pregnant and breastfeeding.",
+    "ingredients": "Ingredients",
+    "ingredients_safety": "Ingredients Safety",
+    "ingredients_low_risk": "Ingredients Low Risk",
+    "ingredients_high_risk": "Ingredients High Risk",
+    "ingredients_analysis": {
+      "ingredients_analysis": "Ingredients Analysis (EWG health rating)",
+      "safe": "Safe",
+      "high_rick": "High rick",
+      "low_rick": "Low rick",
+      "un_defined": "Undefined"
+    },
+    "skin_irritation": {
+      "skin_irritation": "Irritation with skin types",
+      "oily_skin": "Oily skin",
+      "dry_skin": "Dry skin",
+      "normal_skin": "Normal skin",
+      "combination_skin": "Combination skin",
+      "sensitive_skin": "Sensitive skin"
+    },
+    "product_function": "Product functions",
+    "view_detail": "View detail",
+    "product_name": "Product name",
+    "enter_product_name": "Enter product name"
+  },
+  "test_skin_type": {
+    "test_skin_type": "Check your skin type",
+    "check_with_paper": "Check your skin type with oil blotting papers",
+    "you_need": "You need:",
+    "tool": "Tools",
+    "four_paper": "4 pieces of oil blotting paper",
+    "time": "Time",
+    "after_waking_up": "After waking up",
+    "requirements": "requirements",
+    "remove_makeup": "Remove makeup, clean your face thoroughly before going to sleep. Note, do not apply any skincare products.",
+    "conditions": "Conditions",
+    "temperature": "Make sure the fan is turned on. If you turn on the air conditioner, keep the temperature around 25-28.",
+    "step_one": "Step 1",
+    "clean_face": "Clean your face thoroughly and be careful not to apply any skincare products. Go to bed and sleep well.",
+    "step_two": "Step 2",
+    "using_paper": "When you wake up, start taking four pieces of oil blotting paper and apply them to your face in the following areas: forehead, nose, and cheeks.",
+    "question": "How are your 4 pieces of oil blotting paper?"
+  }
+}

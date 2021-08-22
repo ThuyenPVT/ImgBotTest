@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="c" x="0" y="0" width="56" height="60" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dy="4"/>
+            <feGaussianBlur stdDeviation="9"/>
+            <feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+            <feBlend in2="shape" result="effect1_innerShadow"/>
+        </filter>
+        <linearGradient id="b" x1="28" x2="28" y1="1" y2="55" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" offset="0"/>
+            <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+        </linearGradient>
+        <linearGradient id="a" x1="28" x2="28" y1="17" y2="40" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF4EBE" offset="0"/>
+            <stop stop-color="#FF7E7E" offset="1"/>
+        </linearGradient>
+    </defs>
+    <g filter="url(#c)">
+        <rect x="1" y="1" width="54" height="54" rx="27" fill="#fff"/>
+    </g>
+    <rect x=".5" y=".5" width="55" height="55" rx="27.5" stroke="#938E8E"/>
+    <rect x=".5" y=".5" width="55" height="55" rx="27.5" stroke="url(#b)"/>
+    <path d="m37.778 17h-19.556c-0.3241 0-0.635 0.1275-0.8642 0.3546-0.2292 0.227-0.358 0.5349-0.358 0.8559v3.1353c0 0.6331 0.2603 1.2553 0.7126 1.7032l6.6207 6.5575v9.1831c3e-4 0.2063 0.0537 0.4091 0.1551 0.5892 0.1015 0.18 0.2477 0.3315 0.4248 0.44s0.3792 0.1704 0.5872 0.1799c0.2081 0.0095 0.4151-0.0337 0.6015-0.1256l4.8889-2.4211c0.4143-0.2058 0.6759-0.6246 0.6759-1.0834v-6.7621l6.6207-6.5575c0.4523-0.4479 0.7126-1.0701 0.7126-1.7032v-3.1353c0-0.321-0.1288-0.6289-0.358-0.8559-0.2292-0.2271-0.5401-0.3546-0.8642-0.3546zm-8.1975 11.25c-0.1137 0.1122-0.2039 0.2456-0.2653 0.3925-0.0615 0.1469-0.093 0.3044-0.0928 0.4634v6.5151l-2.4444 1.2105v-7.7256c2e-4 -0.159-0.0313-0.3165-0.0928-0.4634-0.0614-0.1469-0.1516-0.2803-0.2653-0.3925l-6.9753-6.9037v-1.9247h17.112l0.0024 1.9163-6.9789 6.9121z" fill="url(#a)"/>
+</svg>

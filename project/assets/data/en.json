@@ -1,0 +1,34 @@
+{
+  "skin_type_questions": {
+    "oily_skin": {
+      "question": "* All four pieces of oil blotting paper appear oily, drenched. Especially the T-zone (forehead and nose).\n* Large pores, often with many blackheads, acne bran in the area of the nose.",
+      "conclusion": "Oily skin",
+      "explain": "<p>Oily around your face, especially T-zone.\n During the day, you should use skincare products that contain <span>benzoyl peroxide</span> or sulfur to curb the skin's oil secretion as well as prevent acne. Meanwhile, at night, you should prioritize products with <span>retinol</span> to help open pores and not be clogged. What you should keep in mind when taking care of oily skin:\n <ul><li> Use a gentle cleanser for oily skin.</li>\n <li> Should choose the right toner and moisturizer.</li>\n <li> Regularly spray mineral for oily skin.</li>\n <li> Mask and exfoliate periodically.</li></p>",
+      "image": "assets/images/sh_oily_skin.png"
+    },
+    "dry_skin": {
+      "question": "* Four pieces of blotting paper are completely dry, the paper does not stick to the skin.\n* Rough skin surface, not smooth.",
+      "conclusion": "Dry skin",
+      "explain": "<p>Dry skin is prone to flaking and roughness, giving you the feeling that the surface is always tight due to a lack of water. At the same time, this is also the skin that has a very rapid aging process. Therefore, you need to take care of dry skin carefully.\nProvide extra moisture to the skin through a moisturizer that contains some humectant such as <span>hyaluronic acid</span> or <span>glycerin</span>. These substances will add more water to the skin cells, making the skin less tight and burning. The best time to apply moisturizer is after showering or washing your face. When the skin has been cleaned and is still moist, the skin can better absorb the substances.\nFor dry skin, daily care will be more complicated than normal skin, specifically:\n <ul><li> Always moisturize and increase water replenishment for the skin, helping to keep the skin soft.</li>\n <li> When mineral spraying or moisturizing, gently pat the skin to penetrate deep inside.</li>\n <li> Increase water intake daily.</li>\n <li> Regularly steam your face with a humidifier to naturally replenish water for your skin.</li>\n <li> Apply sunscreen daily to limit skin dehydration.</li>\n <li> Do not wash your face with hot water.</li></ul></p>",
+      "image": "assets/images/sh_dry_skin.png"
+    },
+    "normal_skin": {
+      "question": "* The oil blotting sheets all have a layer of oil lightly and insignificantly.\n* This is completely normal as with a hot and humid climate like Vietnam, the skin always has a thin layer of oil, especially in the T-zone such as the forehead, nose.",
+      "conclusion": "Normal skin",
+      "explain": "<p>Normal skin is not too oily but not too dry either. With the above properties, it is clear that normal skin is the most ideal and healthy skin type that everyone wants to own. When touching the skin, we can easily feel the gentle softness of the skin, especially after washing the face, the skin does not have much change. The outer stratum corneum is always kept at an ideal moisture level. With normal skin, you don't have any difficulty in taking care of it. For the skin to maintain its beauty and health, you should always keep your skin clean and moisturized. Besides, you can also maintain a weekly habit of applying masks from natural ingredients to your skin, applying <span>sunscreen</span> when going outdoors, etc.</p>",
+      "image": "assets/images/sh_normal_skin.png"
+    },
+    "combination_skin": {
+      "question": "* 2 pieces on the nose and forehead appear oily.\n* But 2 pieces on the cheeks, the oil is not significant.",
+      "conclusion": "Combination skin",
+      "explain": "<p>Combination skin is a skin type that has both the characteristics of oily and dry skin. That is, when you have combination skin, your face will have an oily area (usually the T-zone) and an area that will be dry, flaky skin (both cheeks). Besides, combination skin is also divided into 2 types:\n <ul><li> Oily combination skin: Most areas of the face are oily, leaving very few areas dry.</li>\n <li> Dry combination skin: Most areas are dry, only a few places in the T-zone oily secretions.</li></ul>\n <p>For combination skin that is relatively complicated when taking care of, you need to pay attention to:</p>\n <ul><li> Choose a cleanser specifically for combination skin types.</li>\n <li> Wash your face from 1 to 2 times a day, should be in the morning and evening.</li>\n <li> Always keep the oily skin areas clean and moisturize the dry skin.</li>\n <li> Choose a natural mask for combination skin will help balance the skin.</li></ul></p>",
+      "image": "assets/images/sh_combination_skin.png"
+    },
+    "sensitive_skin": {
+      "question": "* Thin skin, visible blood vessels under the skin.\n* Ease of irritation, itching, or/and redness after exposure to sunlight or most conventional (commercial) cosmetics.",
+      "conclusion": "Sensitive skin",
+      "explain": "<p>Sensitive skin is a type of skin that is easily irritated, red, itchy, stinging, hot because the skin has lost its protective barrier against the impact of external factors such as weather, environmental changes, chemicals in cosmetics,...\nTaking care of sensitive skin is quite complicated compared to other skin types. You should use mild cosmetics suitable for sensitive skin, <span>drugstore</span>, or <span>organic</span> and prioritize moisturizing the skin. Avoid ingredients that have strong detergents and cause irritation such as Fragrant (Fragrance), Color (Coloring agent), Paraben (Preservative), Mineral oil (Mineral Oil), Benzophenone (Chemical ingredient), Artificial Pigment (Additive), Salicylic Acid, Alpha, Beta hydroxy acid,...\nBesides, for this skin, you should simplify the skincare process not to irritate. You just need to gently clean, then use moisturizing toner and cream.</p>",
+      "image": "assets/images/sh_sensitive_skin.png"
+    }
+  }
+}
