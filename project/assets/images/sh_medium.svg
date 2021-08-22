@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg fill="none" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="translate(12.5 8) rotate(150.75) scale(14.326)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#DEF5BA" offset="0"/>
-            <stop stop-color="#B1D17E" offset="1"/>
-        </radialGradient>
-    </defs>
-    <circle cx="9.5" cy="9.5" r="9.5" fill="url(#a)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 19 19"><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="translate(12.5 8) rotate(150.75) scale(14.326)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#DEF5BA"/><stop offset="1" stop-color="#B1D17E"/></radialGradient></defs><circle cx="9.5" cy="9.5" r="9.5" fill="url(#a)"/></svg>
