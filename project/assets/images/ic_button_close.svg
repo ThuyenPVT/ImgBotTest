@@ -1,17 +1,1 @@
-<svg id="close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-    width="35" height="35" viewBox="0 0 35 35">
-    <defs>
-        <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1"
-            gradientUnits="objectBoundingBox">
-            <stop offset="0" stop-color="#ff4ebe" />
-            <stop offset="1" stop-color="#ff7e7e" />
-        </linearGradient>
-    </defs>
-    <g id="Group_3130" data-name="Group 3130">
-        <rect id="Rectangle_4511" data-name="Rectangle 4511" width="35" height="35" rx="17.5"
-            transform="translate(35 35) rotate(180)" fill="url(#linear-gradient)" />
-    </g>
-    <path id="Path_8036" data-name="Path 8036"
-        d="M18.909,17.5l4.3-4.286a1,1,0,1,0-1.419-1.419L17.5,16.09l-4.286-4.3A1,1,0,0,0,11.8,13.213l4.3,4.286-4.3,4.287A1,1,0,1,0,13.214,23.2l4.286-4.3,4.286,4.3A1,1,0,1,0,23.2,21.786Z"
-        fill="#fff" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="close" width="35" height="35" viewBox="0 0 35 35"><defs><linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#ff4ebe"/><stop offset="1" stop-color="#ff7e7e"/></linearGradient></defs><g id="Group_3130" data-name="Group 3130"><rect id="Rectangle_4511" width="35" height="35" fill="url(#linear-gradient)" data-name="Rectangle 4511" rx="17.5" transform="translate(35 35) rotate(180)"/></g><path id="Path_8036" fill="#fff" d="M18.909,17.5l4.3-4.286a1,1,0,1,0-1.419-1.419L17.5,16.09l-4.286-4.3A1,1,0,0,0,11.8,13.213l4.3,4.286-4.3,4.287A1,1,0,1,0,13.214,23.2l4.286-4.3,4.286,4.3A1,1,0,1,0,23.2,21.786Z" data-name="Path 8036"/></svg>
